@@ -1,0 +1,10 @@
+@font-face {
+    font-family: BRUSHSTRIKE;
+    src: url(/fonts/Brushstrike.woff);
+}
+
+body {
+    background-color: #60a994;
+    font-family: BRUSHSTRIKE;
+    font-size: 40px;
+}
